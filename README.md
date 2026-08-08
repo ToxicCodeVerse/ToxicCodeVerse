@@ -3,8 +3,6 @@
 </div>
 <div align="center">
 <h1>Hello, I'm ToxicCodeVerse 🚀</h1>
-<!-- Contribution Snake Animation (Raw link fixed) -->
-<img src="https://raw.githubusercontent.com/ToxicCodeVerse/ToxicCodeVerse/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 <!-- Modern Typing Animation -->
 <a href="https://github.com/ToxicCodeVerse">
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=630&lines=Full+Stack+Developer+%7C+System+Architect;Building+Scalable+Bots+%26+Automation;Deploying+High-Performance+Servers" alt="Typing SVG" />
@@ -103,6 +101,12 @@ One-click deployment scripts for modern cloud platforms.
 ---
 ## 📊 Analytics & Activity
 <div align="center">
+  <!-- Snake Animation -->
+  <img src="https://raw.githubusercontent.com/ToxicCodeVerse/ToxicCodeVerse/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <br><br>
+  <!-- Lowlighter Professional Metrics Card -->
+  <img src="https://raw.githubusercontent.com/ToxicCodeVerse/ToxicCodeVerse/master/metrics.classic.svg" alt="Metrics" />
+  <br><br>
   <table>
     <tr>
       <td><img width="400" src="https://github-readme-stats.shion.dev/api?username=ToxicCodeVerse&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"></td>
@@ -110,7 +114,7 @@ One-click deployment scripts for modern cloud platforms.
     </tr>
     <tr>
       <td><img width="400" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ToxicCodeVerse&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"></td>
-      <td><img width="400" src="https://github-profile-trophy.vercel.app/?username=ToxicCodeVerse&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies"></td>
+      <td><img width="400" src="https://github-readme-stats.shion.dev/api/pin/?username=ToxicCodeVerse&repo=ToxicCodeVerse&theme=tokyonight&hide_border=true" alt="Pinned Repo Card"></td>
     </tr>
   </table>
   
@@ -118,7 +122,7 @@ One-click deployment scripts for modern cloud platforms.
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ToxicCodeVerse&theme=tokyo-night" alt="Activity Graph">
   <br>
-  <!-- New Working Animated Quote / Skill Animation Card Above Views -->
+  <!-- Dynamic Quote Card -->
   <br>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Quote Animation">
   <br><br>
