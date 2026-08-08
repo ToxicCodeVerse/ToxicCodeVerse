@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://files.catbox.moe/duxgdx.jpg" alt="ToxicCodeVerse Banner" width="100%" style="border-radius: 10px; margin-bottom: 20px;">
+  <video src="https://files.catbox.moe/9ldtfk.mp4" autoplay loop muted playsinline width="100%" style="border-radius: 10px; margin-bottom: 20px;"></video>
 </div>
 <div align="center">
 <h1>Hello, I'm ToxicCodeVerse 🚀</h1>
@@ -102,7 +102,7 @@ One-click deployment scripts for modern cloud platforms.
 ## 📊 Analytics & Activity
 <div align="center">
   
-  <!-- Animation 2: Dynamic Quotes -->
+  <!-- Dynamic Quotes -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dynamic Quote" style="margin-bottom: 20px;">
   <table>
     <tr>
@@ -115,11 +115,21 @@ One-click deployment scripts for modern cloud platforms.
     </tr>
   </table>
   
-  <!-- Animation 3: Animated Activity Graph -->
+  <!-- Animation 1: Activity Graph -->
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ToxicCodeVerse&theme=github-compact" alt="Activity Graph">
   <br>
   
+  <!-- Animation 2: Animated Typing Footer Message -->
   <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2CA5E0&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+scalable+bots+together!;Keep+Coding,+Keep+Innovating!+🚀" alt="Typing SVG Footer" />
+  <br>
+  <!-- Animation 3: Dynamic Developer Joke Card -->
+  <br>
+  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Jokes Card" />
+  <br><br>
   <img src="https://komarev.com/ghpvc/?username=ToxicCodeVerse&icon=0&color=2CA5E0&style=for-the-badge" alt="Profile Views">
+  <!-- Animation 4: Animated Wavy Footer -->
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2CA5E0&height=120&section=footer" alt="Waving Footer">
 </div>
