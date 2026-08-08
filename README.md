@@ -1,5 +1,8 @@
+<div align="center" style="position: relative; margin-bottom: 70px;">
+  <img src="https://files.catbox.moe/duxgdx.jpg" alt="ToxicCodeVerse Banner" width="100%" style="border-radius: 10px;">
+  <img src="https://github.com/ToxicCodeVerse.png" alt="ToxicCodeVerse Profile" width="100" style="border-radius: 50%; border: 5px solid #fff; position: absolute; bottom: -50px; left: 50%; transform: translateX(-50%); box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+</div>
 <div align="center">
-<img src="https://github.com/ToxicCodeVerse.png" alt="ToxicCodeVerse Profile" width="150" style="border-radius: 50%; border: 3px solid #e1e4e8; margin-bottom: 20px;">
 # ToxicCodeVerse
 **Full Stack Developer | Automation & Bot Architect | Server Engineer**
 <a href="https://github.com/ToxicCodeVerse">
