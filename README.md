@@ -1,11 +1,13 @@
 <div align="center">
-  <video src="https://files.catbox.moe/9ldtfk.mp4" autoplay loop muted playsinline width="100%" style="border-radius: 10px; margin-bottom: 20px;"></video>
+  <img src="https://files.catbox.moe/m39z5p.jpg" alt="ToxicCodeVerse Banner" width="100%" style="border-radius: 10px; margin-bottom: 20px;">
 </div>
 <div align="center">
 <h1>Hello, I'm ToxicCodeVerse 🚀</h1>
-<!-- Animation 1: Stylish Typing SVG -->
+<!-- Modern GitHub Actions / Metrics Animation 1 -->
+<img src="https://github.com/ToxicCodeVerse/ToxicCodeVerse/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+<!-- Modern Typing Animation -->
 <a href="https://github.com/ToxicCodeVerse">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2CA5E0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Automation+%26+Bot+Architect;Server+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=630&lines=Full+Stack+Developer+%7C+System+Architect;Building+Scalable+Bots+%26+Automation;Deploying+High-Performance+Servers" alt="Typing SVG" />
 </a>
 <p style="font-size: 16px;"><b>Owners:</b> <a href="https://t.me/TylerDurden21">@TylerDurden21</a> | <a href="https://t.me/SegsyToxic95">@SegsyToxic95</a></p>
 <a href="https://github.com/ToxicCodeVerse">
@@ -101,35 +103,27 @@ One-click deployment scripts for modern cloud platforms.
 ---
 ## 📊 Analytics & Activity
 <div align="center">
-  
-  <!-- Dynamic Quotes -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dynamic Quote" style="margin-bottom: 20px;">
   <table>
     <tr>
-      <td><img width="400" src="https://github-readme-stats.shion.dev/api?username=ToxicCodeVerse&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"></td>
-      <td><img width="400" src="https://streak-stats.demolab.com/?user=ToxicCodeVerse&theme=github_dark&hide_border=false" alt="Streak Stats"></td>
+      <td><img width="400" src="https://github-readme-stats.shion.dev/api?username=ToxicCodeVerse&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"></td>
+      <td><img width="400" src="https://streak-stats.demolab.com/?user=ToxicCodeVerse&theme=tokyonight&hide_border=true" alt="Streak Stats"></td>
     </tr>
     <tr>
-      <td><img width="400" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ToxicCodeVerse&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"></td>
-      <td><img width="400" src="https://github-profile-trophy.vercel.app/?username=ToxicCodeVerse&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="Trophies"></td>
+      <td><img width="400" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ToxicCodeVerse&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"></td>
+      <td><img width="400" src="https://github-profile-trophy.vercel.app/?username=ToxicCodeVerse&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies"></td>
     </tr>
   </table>
   
-  <!-- Animation 1: Activity Graph -->
+  <!-- Modern GitHub Readme Activity Graph -->
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ToxicCodeVerse&theme=github-compact" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ToxicCodeVerse&theme=tokyo-night" alt="Activity Graph">
   <br>
-  
-  <!-- Animation 2: Animated Typing Footer Message -->
+  <!-- Modern Metrics Card (GitHub-native style) -->
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2CA5E0&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+scalable+bots+together!;Keep+Coding,+Keep+Innovating!+🚀" alt="Typing SVG Footer" />
-  <br>
-  <!-- Animation 3: Dynamic Developer Joke Card -->
-  <br>
-  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Jokes Card" />
+  <img src="https://github-readme-stats.shion.dev/api/wakatime?username=ToxicCodeVerse&theme=tokyonight&hide_border=true" alt="Wakatime or Stats Card">
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=ToxicCodeVerse&icon=0&color=2CA5E0&style=for-the-badge" alt="Profile Views">
-  <!-- Animation 4: Animated Wavy Footer -->
+  <img src="https://komarev.com/ghpvc/?username=ToxicCodeVerse&icon=github&color=00f0ff&style=for-the-badge" alt="Profile Views">
+  <!-- Sleek Cyberpunk/Futuristic Wavy Footer -->
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2CA5E0&height=120&section=footer" alt="Waving Footer">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,18,25&height=60&section=footer" alt="Footer Gradient">
 </div>
