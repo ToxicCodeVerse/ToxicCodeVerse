@@ -3,8 +3,8 @@
 </div>
 <div align="center">
 <h1>Hello, I'm ToxicCodeVerse 🚀</h1>
-<!-- Modern GitHub Actions / Metrics Animation 1 -->
-<img src="https://github.com/ToxicCodeVerse/ToxicCodeVerse/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+<!-- Contribution Snake Animation (Raw link fixed) -->
+<img src="https://raw.githubusercontent.com/ToxicCodeVerse/ToxicCodeVerse/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 <!-- Modern Typing Animation -->
 <a href="https://github.com/ToxicCodeVerse">
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=630&lines=Full+Stack+Developer+%7C+System+Architect;Building+Scalable+Bots+%26+Automation;Deploying+High-Performance+Servers" alt="Typing SVG" />
@@ -118,9 +118,9 @@ One-click deployment scripts for modern cloud platforms.
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ToxicCodeVerse&theme=tokyo-night" alt="Activity Graph">
   <br>
-  <!-- Modern Metrics Card (GitHub-native style) -->
+  <!-- New Working Animated Quote / Skill Animation Card Above Views -->
   <br>
-  <img src="https://github-readme-stats.shion.dev/api/wakatime?username=ToxicCodeVerse&theme=tokyonight&hide_border=true" alt="Wakatime or Stats Card">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Quote Animation">
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=ToxicCodeVerse&icon=github&color=00f0ff&style=for-the-badge" alt="Profile Views">
   <!-- Sleek Cyberpunk/Futuristic Wavy Footer -->
